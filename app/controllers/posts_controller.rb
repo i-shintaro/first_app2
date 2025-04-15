@@ -12,4 +12,3 @@ class PostsController < ApplicationController
    redirect_to "/posts"
  end
 end
-test
